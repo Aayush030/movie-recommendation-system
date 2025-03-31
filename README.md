@@ -9,4 +9,4 @@ IMPLEMENTATION: It is implemented by using nearest neighbour algorithm with cosi
 
 Cosine Similarity: Cosine of the angle between the two vectors of the item, vectors of A and B is calculated for imputing similarity. If the vectors are closer, then small will be the angle and large will be the cosine.
 
-IMPORTING DATA: • SOURCES OF DATA: TMDB movie dta set https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+IMPORTING DATA: • SOURCE OF DATA: TMDB movie data set https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
