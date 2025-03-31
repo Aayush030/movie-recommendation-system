@@ -1,4 +1,4 @@
-# movie-recommendation-system
+# Movie-recommendation-system
 A movie recommendation website which suggests similar movies Content-Based Recommendation System Using cosine Similarity
 
 NOTE: please download the similarity.pkl file which is needed to run the source code on system from here https://drive.google.com/drive/folders/1smOe9Vq26wWaQsO6laQcdXIUhGsssFmq?usp=drive_link
